@@ -1,2 +1,2 @@
-sensitive data
+DELETED SENSITIVE DATA
 some new text1
